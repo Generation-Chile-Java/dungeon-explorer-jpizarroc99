@@ -43,10 +43,6 @@ dungeon-explorer-jpizarroc99/
 │       ├── TreasureRoom.java       # Sala de tesoro estándar
 │       ├── TreasureRoom2.java      # Sala secreta con amuleto
 │       └── VacuumRoom.java         # Sala narrativa sin enemigos
-├── out/                            # Archivos compilados
-│   └── production/
-│       └── dungeon-explorer-jpizarroc99/
-├── .idea/                          # Configuración del proyecto en IntelliJ
 └── README.md                       # Documentación del juego
 ```
 ---
@@ -54,7 +50,7 @@ dungeon-explorer-jpizarroc99/
 ## 🛠️ Tecnologías Utilizadas
 
 - **Lenguaje**: Java
-- Programación orientada a objetos (OOP)
+- Programación orientada a objetos (POO)
 - Código modular con clases por tipo de sala
 - Uso de `Scanner` para interacción por consola
 
@@ -65,7 +61,6 @@ dungeon-explorer-jpizarroc99/
 Este juego fue creado con fines educativos y creativos, buscando:
 
 - Practicar buenas prácticas de programación en Java.
-- Diseñar sistemas de juego modulares y escalables.
 - Integrar narrativa interactiva con mecánicas de combate y exploración.
 ---
 
